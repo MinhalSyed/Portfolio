@@ -12,8 +12,8 @@ function WhatIDo() {
             <div className="row">
                 <div className="col-md-4 mb-4 mb-md-0">
                     <div className="shadow p-3 mb-5 bg-white rounded card card-box">
-                        <div class="card-body">
-                            <i class="fa fa-code color-orange"></i>
+                        <div class="card-body ">
+                            <i class="fa fa-terminal color-orange"></i>
                             <h2>Back End Development</h2>
                             <p>
                                 My main focus has been working with .NET Technologies.
@@ -24,7 +24,7 @@ function WhatIDo() {
                 <div className="col-md-4 mb-4 mb-md-0">
                     <div className="shadow p-3 mb-5 bg-white rounded card card-box" >
                         <div class="card-body">
-                            <i class="fa fa-code color-blue"></i>
+                            <i class="fa fa-cog color-blue"></i>
                             <h2>Web Development</h2>
                             <p>
                                 Hello, I’m .... web-developer based on Paris. I have rich experience in web site design & building and customization. Also I am good at

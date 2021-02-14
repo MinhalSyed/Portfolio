@@ -8,7 +8,7 @@ function AboutMe() {
                 <div className="col-sm-6">
                     <img src={Img}/>
                 </div>
-                <div className="col-sm-6">
+                <div className="col-sm-6 text-center vertical-center">
                     <h2>About Me</h2>
                     <p>
                         Hello, I’m .... web-developer based on Paris. I have rich experience in web site design & building and customization. Also I am good at
