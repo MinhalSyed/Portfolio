@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img
+{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.color-orange
+{
+  color: #ed7256;
+}
+
+.color-purple
+{
+  color: #9774fa;
+}
+
+.color-blue
+{
+  color: #2796e2;
+}
+
+.card-box
+{
+  min-height: 100%;
+}
