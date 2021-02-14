@@ -1,7 +1,7 @@
 
 function WhatIDo() {
     return (
-        <div className="container bg-light container-padding">
+        <div id="what-i-do" className="container bg-light container-padding">
             <div className="row">
                 <div className="col">
                     <h2 class="text-center">What I do</h2>

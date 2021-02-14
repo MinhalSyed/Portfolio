@@ -8,10 +8,12 @@ import WhatIDo from './components/whatIdo'
 function App() {
   return (
     <div className="App">
-      <Nav/>
-      <Banner/>
-      <AboutMe/>
-      <WhatIDo/>
+      <div className="container">
+        <Nav/>
+        <Banner/>
+        <AboutMe/>
+        <WhatIDo/>
+      </div>
     </div>
   );
 }
