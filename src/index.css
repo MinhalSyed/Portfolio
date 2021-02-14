@@ -40,5 +40,10 @@ img
 
 .padding-home
 {
-  padding:150px 0px;
+  padding:100px 0px;
+}
+
+.container-padding
+{
+  padding: 25px;
 }

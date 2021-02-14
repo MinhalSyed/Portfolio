@@ -3,7 +3,7 @@ import Img from '../imgs/images.png'
 
 function AboutMe() {
     return (
-        <div className="container">
+        <div className="container container-padding">
             <div className="row">
                 <div className="col-sm-6">
                     <img src={Img}/>
