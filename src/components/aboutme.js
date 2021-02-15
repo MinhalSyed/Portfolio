@@ -1,5 +1,6 @@
 
-import Img from '../imgs/images.png'
+import Img from '../imgs/images.png';
+import Resume from '../assets/MinhalSyed-Resume.pdf';
 
 function AboutMe() {
     return (
@@ -11,9 +12,10 @@ function AboutMe() {
                 <div className="col-sm-6 text-center vertical-center">
                     <h2>About Me</h2>
                     <p>
-                        Hello, I’m .... web-developer based on Paris. I have rich experience in web site design & building and customization. Also I am good at
+                        Hello my name is Minhal Syed and I am back end developer based in Toronto, Canada.
+                        I love writing high performance code. I mainly work in C#.
                     </p>
-                    <a href="">Download CV</a>
+                    <a href={Resume}>Download CV</a>
                 </div>
             </div>
         </div>
